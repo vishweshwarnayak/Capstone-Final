@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-19T09:12:06Z" name="Suite" finished-at="2022-02-19T09:13:40Z" duration-ms="93623">
+    <groups>
+    </groups>
+    <test started-at="2022-02-19T09:12:06Z" name="Test" finished-at="2022-02-19T09:13:40Z" duration-ms="93623">
+      <class name="com.qa.Testcases.CaptureVitalsTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.qa.Testcases.CaptureVitalsTest@2a62b5bc]" started-at="2022-02-19T09:13:15Z" name="beforeTest" finished-at="2022-02-19T09:13:25Z" duration-ms="9829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="validateCapture()[pri:0, instance:com.qa.Testcases.CaptureVitalsTest@2a62b5bc]" started-at="2022-02-19T09:13:25Z" name="validateCapture" finished-at="2022-02-19T09:13:40Z" duration-ms="14745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCapture -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.qa.Testcases.CaptureVitalsTest@2a62b5bc]" started-at="2022-02-19T09:13:40Z" name="afterTest" finished-at="2022-02-19T09:13:40Z" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.qa.Testcases.CaptureVitalsTest -->
+      <class name="com.qa.Testcases.AppointTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.qa.Testcases.AppointTest@648c94da]" started-at="2022-02-19T09:12:52Z" name="beforeTest" finished-at="2022-02-19T09:13:02Z" duration-ms="9826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="validateAppointment()[pri:0, instance:com.qa.Testcases.AppointTest@648c94da]" started-at="2022-02-19T09:13:02Z" name="validateAppointment" finished-at="2022-02-19T09:13:15Z" duration-ms="13067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAppointment -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.qa.Testcases.AppointTest@648c94da]" started-at="2022-02-19T09:13:15Z" name="afterTest" finished-at="2022-02-19T09:13:15Z" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.qa.Testcases.AppointTest -->
+      <class name="com.qa.Testcases.LoginTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.qa.Testcases.LoginTest@1b7c473a]" started-at="2022-02-19T09:12:06Z" name="beforeTest" finished-at="2022-02-19T09:12:18Z" duration-ms="11785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="validateLogin()[pri:0, instance:com.qa.Testcases.LoginTest@1b7c473a]" started-at="2022-02-19T09:12:18Z" name="validateLogin" finished-at="2022-02-19T09:12:25Z" duration-ms="6935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.qa.Testcases.LoginTest@1b7c473a]" started-at="2022-02-19T09:12:25Z" name="afterTest" finished-at="2022-02-19T09:12:25Z" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.qa.Testcases.LoginTest -->
+      <class name="com.qa.Testcases.DashboardTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.qa.Testcases.DashboardTest@5e4bd84a]" started-at="2022-02-19T09:12:25Z" name="beforeTest" finished-at="2022-02-19T09:12:40Z" duration-ms="14743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="validateDashboard()[pri:0, instance:com.qa.Testcases.DashboardTest@5e4bd84a]" started-at="2022-02-19T09:12:40Z" name="validateDashboard" finished-at="2022-02-19T09:12:52Z" duration-ms="12021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDashboard -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.qa.Testcases.DashboardTest@5e4bd84a]" started-at="2022-02-19T09:12:52Z" name="afterTest" finished-at="2022-02-19T09:12:52Z" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.qa.Testcases.DashboardTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
